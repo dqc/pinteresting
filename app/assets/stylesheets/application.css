@@ -20,7 +20,7 @@
 }
 
 body {
-  background: url(waves2.jpg);
+  background: url("/assets/waves2.jpg");
   background-size: cover; 
   position: fixed;
   padding: 0;
@@ -31,7 +31,7 @@ body {
 
 .home {
   background-size: cover;
-  background: url(walrus2.jpg);
+  background: url("/assets/walrus2.jpg");
    position:fixed;
     padding:0;
     margin:0;
@@ -44,7 +44,7 @@ body {
 }
 
 .main {
-  background: url(waves.jpg);
+  background: url("/assets/waves.jpg");
   background-size: cover;
    position:absolute;
     padding:0;
