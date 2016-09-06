@@ -66,11 +66,12 @@ body {
   padding-top: 65px;
   padding-bottom: 65px;
   transform: translate(-50%,-50%);
-  background: rgba(236, 240, 241,.5)
+  background: rgba(236, 240, 241,.5);
+  -webkit-border-radius: 10px;
 }
 
 .layer {
-  background-color: rgba(52, 73, 94,.6);
+  background-color: rgba(52, 73, 94,.4);
   position: absolute;
     top: 0;
     left: 0;
@@ -78,5 +79,8 @@ body {
     height: 100%;
 }
 
+a:hover {
+  font-weight: bold;
+}
 
 
