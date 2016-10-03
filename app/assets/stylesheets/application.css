@@ -58,9 +58,14 @@ body {
     height: 100%;
 }
 
+#pins {
+  
+
+}
+
 .jumbotron {
   position: absolute;
-  top: 50%;
+  top: 30%;
   left:50%;
   padding-left: 65px;
   padding-right:65px;

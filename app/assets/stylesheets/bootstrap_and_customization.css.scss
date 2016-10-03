@@ -2,5 +2,7 @@ $navbar-height: 45px;
 $navbar-inverse-bg: #36454f;
 $navbar-inverse-link-color: white;
 $brand-primary: #2ecc71;
+@import 'bootstrap-sprockets';
 @import 'bootstrap';
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
 
